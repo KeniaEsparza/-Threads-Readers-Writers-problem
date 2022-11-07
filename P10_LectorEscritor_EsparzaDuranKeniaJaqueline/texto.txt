@@ -1,0 +1,17 @@
+Este es un archivo para resolver el problema de lector escritor. :)
+
+
++++++++Esta linea ha sido escrita por el escritor 1 num: 0
++++++++Esta linea ha sido escrita por el escritor 2 num: 1
++++++++Esta linea ha sido escrita por el escritor 2 num: 2
++++++++Esta linea ha sido escrita por el escritor 2 num: 3
++++++++Esta linea ha sido escrita por el escritor 2 num: 4
++++++++Esta linea ha sido escrita por el escritor 1 num: 5
++++++++Esta linea ha sido escrita por el escritor 2 num: 6
++++++++Esta linea ha sido escrita por el escritor 2 num: 7
++++++++Esta linea ha sido escrita por el escritor 2 num: 8
++++++++Esta linea ha sido escrita por el escritor 2 num: 9
++++++++Esta linea ha sido escrita por el escritor 1 num: 10
++++++++Esta linea ha sido escrita por el escritor 2 num: 11
++++++++Esta linea ha sido escrita por el escritor 2 num: 12
++++++++Esta linea ha sido escrita por el escritor 2 num: 13
